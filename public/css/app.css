@@ -816,6 +816,9 @@ select {
 .w-full {
   width: 100%;
 }
+.w-1\/4 {
+  width: 25%;
+}
 .max-w-6xl {
   max-width: 72rem;
 }
@@ -913,6 +916,9 @@ select {
 .border {
   border-width: 1px;
 }
+.border-2 {
+  border-width: 2px;
+}
 .border-t {
   border-top-width: 1px;
 }
@@ -966,6 +972,10 @@ select {
 .bg-gray-800 {
   --tw-bg-opacity: 1;
   background-color: rgb(31 41 55 / var(--tw-bg-opacity));
+}
+.bg-red-300 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(252 165 165 / var(--tw-bg-opacity));
 }
 .fill-current {
   fill: currentColor;
