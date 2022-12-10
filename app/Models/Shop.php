@@ -21,6 +21,7 @@ class Shop extends Model
         'name',
         'owner_id',
         'information',
+        'information',
         'is_selling',
     ];
 }

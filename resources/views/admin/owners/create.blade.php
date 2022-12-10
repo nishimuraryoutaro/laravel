@@ -43,10 +43,8 @@
                                     </div>
                                 </div>
                                 <div class="p-2 w-full flex justify-around mt-4">
-
-                                        <button type="submit" class="flex mx-auto bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">登録</button>
-                                        <button type="button"onclick="location.href='{{route('admin.owners.index')}}'"class="inline-flex bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">戻る</button>
-                                
+                                    <button type="submit" class="flex mx-auto bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">登録</button>
+                                    <button type="button"onclick="location.href='{{route('admin.owners.index')}}'"class="inline-flex bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">戻る</button>   
                                 </div>
                             </div>
                             </form>

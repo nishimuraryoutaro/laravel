@@ -19,6 +19,7 @@ class ShopSeeder extends Seeder
             'owner_id' => 1,
             'name'=> 'ここに店名が入ります',
             'information' => 'ここに入ります',
+            'filename' =>'',
             'is_selling' => true,
 
         ],
@@ -26,6 +27,7 @@ class ShopSeeder extends Seeder
             'owner_id' => 2,
             'name'=> 'ここに店名が入ります',
             'information' => 'ここに入ります',
+            'filename' => '',
             'is_selling' => true,
 
         ],
