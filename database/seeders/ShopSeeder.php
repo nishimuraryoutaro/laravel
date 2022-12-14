@@ -18,7 +18,7 @@ class ShopSeeder extends Seeder
         [
             'owner_id' => 1,
             'name'=> 'ここに店名が入ります',
-            'information' => 'ここに入ります',
+            'information' => 'ここにお店の情報が入ります。、ここにお店の情報が入ります。ここにお店の情報が入ります。',
             'filename' =>'',
             'is_selling' => true,
 
